@@ -6,5 +6,5 @@
 - [DBPIA](https://www.dbpia.co.kr)
 
 ## 논문게재 저널
-- [실천공학교육논문지](https://journal.kipee.or.kr/)
+- [실천공학교육논문지](https://journal.kipee.or.kr/?lang=ko)
 - [디지털콘텐츠학회논문지](https://www.dbpia.co.kr/journal/publicationDetail?publicationId=PLCT00002471)
