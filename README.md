@@ -2,6 +2,10 @@
 2026년 2학기 인공지능종합설계(졸업작품)
 
 ---
+# 수업공유
+- [QA인공지능종합설계](https://docs.google.com/spreadsheets/d/1Uw2f-YMw5qntu8uYH0tmJUDBhwGVALE2Q8i7QDe3SgQ/edit?usp=sharing)
+  
+---
 ## 수업 일정
 | 주차 | 일자         | 요일  | 주제      | 발표        | 비고     |
 | -- | ---------- | --- | ------- | --------- | ---------- |
