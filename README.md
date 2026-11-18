@@ -42,7 +42,8 @@
 - 2026-10-20 6교시 14:00~14:50 6호관 309호
 - 2026-12-08 6교시 12:00~12:50
 
-## 참고 
+## 참조 사이트 
+- [Transformer Explainer(GPT-2)](https://poloclub.github.io/transformer-explainer)
 - [트랜스포머 시뮬레이터](https://claude.ai/artifact/AvycJnb5wBhsRvmPzuXK1X)
 
 --- 
