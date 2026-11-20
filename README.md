@@ -44,8 +44,9 @@
 
 ## 참조 사이트 
 - [Transformer Explainer(GPT-2)](https://poloclub.github.io/transformer-explainer)
-- [트랜스포머 시뮬레이터](https://claude.ai/artifact/AvycJnb5wBhsRvmPzuXK1X)
+- [트랜스포머 단계별 해부 made by Kang](https://claude.ai/artifact/AvycJnb5wBhsRvmPzuXK1X)
 - [유튜브: 트랜스포머 트랜스포머 논문 해부](https://www.youtube.com/watch?v=FcXk1i06er0&t=401s)
+- [유튜브: 챗GPT의 근본이 된 트랜스포머의 탄생과 발전](https://www.youtube.com/watch?v=dqvqEsrFE7w)
 
 --- 
 
